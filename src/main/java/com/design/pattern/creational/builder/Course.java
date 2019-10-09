@@ -1,5 +1,5 @@
 package com.design.pattern.creational.builder;
-
+//产品角色
 public class Course {
     private String courseName;
     private String coursePPT;

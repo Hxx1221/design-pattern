@@ -1,5 +1,5 @@
 package com.design.pattern.creational.builder;
-
+//具体建造者
 public class CourseActualBuilder extends CourseBuilder{
     private Course course=new Course();
     public void buildCourseName(String courseName) {

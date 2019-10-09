@@ -1,5 +1,6 @@
 package com.design.pattern.creational.builder;
 
+//抽象建造者
 public abstract class CourseBuilder {
 
     public abstract void buildCourseName(String courseName);
